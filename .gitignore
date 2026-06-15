@@ -7,3 +7,6 @@ venv/
 # outputs/ committed
 LINKEDIN_*
 .env
+
+# tool cruft
+.serena/

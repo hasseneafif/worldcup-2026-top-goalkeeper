@@ -36,7 +36,7 @@ python -m src.simulate.goldenglove 20000   # -> outputs/golden_glove.csv
 
 | # | Keeper | Team | Golden Glove | Top-3 | Exp. clean sheets |
 |---|--------|------|:------------:|:-----:|:-----------------:|
-| 1 | David Raya | Spain | **19.2%** | 39.3% | 3.41 |
+| 1 | Unai Simón | Spain | **19.2%** | 39.3% | 3.41 |
 | 2 | Emiliano Martínez | Argentina | **13.1%** | 29.4% | 3.01 |
 | 3 | Mike Maignan | France | **8.3%** | 21.4% | 2.66 |
 | 4 | Jordan Pickford | England | **6.5%** | 17.5% | 2.48 |
@@ -48,7 +48,7 @@ python -m src.simulate.goldenglove 20000   # -> outputs/golden_glove.csv
 | 10 | Manuel Neuer | Germany | **2.8%** | 9.9% | 2.05 |
 
 Full table in `outputs/golden_glove.csv`. Reigning Golden Glove winner Emiliano Martínez
-ranks 2nd behind Raya, whose Spain side is the model's strongest and deepest-running team.
+ranks 2nd behind Unai Simón, whose Spain side is the model's strongest and deepest-running team.
 
 ## Data
 

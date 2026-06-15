@@ -12,7 +12,7 @@ from __future__ import annotations
 # verified from 2026 squad announcements / pre-tournament news
 KEEPERS: dict[str, str] = {
     # contenders (high confidence)
-    "Spain": "David Raya",
+    "Spain": "Unai Simón",
     "Argentina": "Emiliano Martínez",
     "France": "Mike Maignan",
     "England": "Jordan Pickford",
