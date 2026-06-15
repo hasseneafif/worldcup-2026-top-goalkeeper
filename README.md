@@ -1,6 +1,6 @@
 # 2026 World Cup — Golden Glove Predictor
 
-![Golden Glove](https://i.imgur.com/Rehvln6.png)
+![Golden Glove](https://i.imgur.com/XPi9tBX.png)
 
 Estimates each goalkeeper's probability of winning the **Golden Glove** (best keeper)
 at the 2026 FIFA World Cup. The award is driven by clean sheets, so the model is:
